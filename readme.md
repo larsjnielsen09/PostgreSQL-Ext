@@ -314,7 +314,6 @@ JavaScript
 IGNORE_WHEN_COPYING_END
 Deployment
 
-Okay, I've reformatted that section of the README.md to improve readability and clarity. I've used a combination of headings, bullet points, and consistent indentation to make the structure more apparent. I've also made some minor wording improvements.
 
 ## Deployment
 
